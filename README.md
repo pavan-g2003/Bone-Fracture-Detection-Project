@@ -196,21 +196,7 @@ Model performance was evaluated using:
 
 ---
 
-## Repository Structure
 
-```
-├── Dataset/
-├── notebooks/
-│      Bone_Fracture_Detection.ipynb
-├── models/
-├── results/
-│      ConfusionMatrix.png
-│      GradCAM.png
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## Installation
 
